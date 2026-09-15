@@ -14,5 +14,3 @@ Ferramenta para análise quantitativa de ativos financeiros, desenvolvida em Pyt
 - **Sinais de trading baseados em RSI** – Geração automática de sinais **BUY**, **SELL** ou **HOLD** com base nos níveis de sobrecompra/sobrevenda.
 - **Dashboard interativo** – Interface com duas abas:
   - **RSI**: Exibe uma tabela com os sinais atuais para uma lista de ativos.
-  - **MA Strategy**: Permite testar uma estratégia de cruzamento de médias móveis (Moving Average Crossover) com backtesting utilizando a biblioteca `vectorbt`.
-- **Backtesting de estratégias** – Avaliação de desempenho de estratégias com métricas estatísticas.
