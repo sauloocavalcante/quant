@@ -20,6 +20,7 @@ decorator==5.3.1
 dill==0.4.1
 exceptiongroup==1.3.1
 executing==2.2.1
+fastjsonschema==2.21.2
 fonttools==4.63.0
 gitdb==4.0.12
 GitPython==3.1.50
@@ -49,6 +50,7 @@ mdurl==0.1.2
 multitasking==0.0.13
 mypy_extensions==1.1.0
 narwhals==2.22.1
+nbformat==5.10.4
 nest-asyncio2==1.7.2
 numba==0.66.0
 numpy==2.2.6
@@ -106,4 +108,3 @@ wcwidth==0.8.1
 websockets==16.0
 widgetsnbextension==4.0.15
 yfinance==1.4.1
-vectorbt
